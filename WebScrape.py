@@ -198,5 +198,5 @@ dic = {'Last Name':last_name,
       'County':county,
       'Last Words':last1}
 finalData = DataFrame(dic)
-finalData.to_csv('C:/Users/hjj41/Google_Drive/MSA/AA502_Analytics_MethodsandapplicationsI/TextMining/Project/TextMining.csv')
+finalData.to_csv('C:/Users/Jabari/Desktop/NC State Analytics/Fall/Text Mining/TextMining.csv')
 
